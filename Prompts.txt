@@ -1,0 +1,61 @@
+IMAGE TO TAGS
+https://huggingface.co/spaces/NoCrypt/DeepDanbooru_string
+
+STYLE
+- ((anime face)) (ensures an anime style face will be used)
+- artstation (general quality increase)
+- digital painting (paints with digital brushes)
+- painting (adds painting strokes)
+- model (makes some characters slightly more attractive)
+- vtuber (anime quality increase for upper body characters)
+- monochrome (black and white)
+- photo (more realistic)
+- canon 50d (more realistic)
+- cell shading (adds comic book like black outlines)
+- by toei animation (anime quality increase)
+- by kyoto animation (anime quality increase)
+- by cloverworks (anime quality increase)
+- instagram (much more varied poses)
+- vtuber (quality increase, especially for upper body art)
+
+LIGHTING
+- cinematic lighting (adds high contrast lighting effects)
+- god rays
+- volumetric lighting
+
+BODY
+- upper body (draws only the upper body for characters, generally increases quality too)
+- full body
+
+GAMES / SHOWS
+- genshin impact (generally high quality increase)
+- granblue fantasy, 
+- jojo no kimyou na bouken
+- fate/grand_order
+- black desert online
+- eternal_return:_black_survival
+- final fantasy xiv
+- blue archive
+- mingdosa (artstation, high quality anime character art https://www.artstation.com/minjkim)
+
+ARTISTS
+- sakimichan (increase to painted digital art look, quality increase)
+- achzatraf scarlet, greg rutkowski, wlop, anders zorn, ruan jia
+
+NEGATIVE PROMPTS
+deformed, blurry, bad anatomy, disfigured, poorly drawn face, mutation, mutated, extra limb, ugly, poorly drawn hands, missing limb, blurry, floating limbs, disconnected limbs, malformed hands, blur, out of focus, long neck, long body, ((((mutated hands and fingers)))), (((out of frame))) 
+
+--------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
